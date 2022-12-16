@@ -1,6 +1,6 @@
 # HOW TO USE
 
-1. install source code into a folder
+1. download source code into a folder
 2. "npm i" in git bash terminal
 3. "npm start" in git bash terminal
 
